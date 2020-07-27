@@ -11,7 +11,7 @@
 }
 .sqs-async-form-content .field-error {
  border-radius:2px;
- background:#cc3b3b url('//assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png') no-repeat 9px 50%;
+ background:#cc3b3b url no-repeat 9px 50%;
  color:#fff;
  display:inline-block;
  font-size:13px;
